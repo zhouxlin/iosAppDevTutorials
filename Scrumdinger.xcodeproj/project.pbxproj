@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		AC7556F22955A65E00FA35C5 /* ThemeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC7556F12955A65D00FA35C5 /* ThemeView.swift */; };
 		AC7556F42955ADE500FA35C5 /* ThemePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC7556F32955ADE400FA35C5 /* ThemePicker.swift */; };
+		AC7B88722969A93A00CFD0A1 /* MeetingHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC7B88712969A93A00CFD0A1 /* MeetingHeaderView.swift */; };
 		ACA7F32328F95C8D009E1D8C /* ScrumdingerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACA7F32228F95C8D009E1D8C /* ScrumdingerApp.swift */; };
 		ACA7F32528F95C8D009E1D8C /* MeetingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACA7F32428F95C8D009E1D8C /* MeetingView.swift */; };
 		ACA7F32728F95C8F009E1D8C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ACA7F32628F95C8F009E1D8C /* Assets.xcassets */; };
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		AC7556F12955A65D00FA35C5 /* ThemeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeView.swift; sourceTree = "<group>"; };
 		AC7556F32955ADE400FA35C5 /* ThemePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemePicker.swift; sourceTree = "<group>"; };
+		AC7B88712969A93A00CFD0A1 /* MeetingHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingHeaderView.swift; sourceTree = "<group>"; };
 		ACA7F31F28F95C8D009E1D8C /* Scrumdinger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Scrumdinger.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACA7F32228F95C8D009E1D8C /* ScrumdingerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumdingerApp.swift; sourceTree = "<group>"; };
 		ACA7F32428F95C8D009E1D8C /* MeetingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingView.swift; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 				ACCD361928FD8F8D001C98A8 /* TrailingIconLabelStyle.swift */,
 				ACA7F32428F95C8D009E1D8C /* MeetingView.swift */,
 				ACFD25032942E89F00E2F7CF /* DetailView.swift */,
+				AC7B88712969A93A00CFD0A1 /* MeetingHeaderView.swift */,
 				ACC8FE2D294744F0000D0022 /* DetailEditView.swift */,
 				ACFD2501293E2D8500E2F7CF /* ScrumsView.swift */,
 				AC7556F12955A65D00FA35C5 /* ThemeView.swift */,
@@ -177,6 +180,7 @@
 				AC7556F42955ADE500FA35C5 /* ThemePicker.swift in Sources */,
 				ACCD361628FD86E0001C98A8 /* DailyScrum.swift in Sources */,
 				ACFD25042942E89F00E2F7CF /* DetailView.swift in Sources */,
+				AC7B88722969A93A00CFD0A1 /* MeetingHeaderView.swift in Sources */,
 				ACC8FE2E294744F0000D0022 /* DetailEditView.swift in Sources */,
 				ACCD361A28FD8F8D001C98A8 /* TrailingIconLabelStyle.swift in Sources */,
 				ACA7F33328F96CF7009E1D8C /* Theme.swift in Sources */,
