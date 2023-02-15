@@ -38,7 +38,6 @@ struct MeetingFooterView: View {
                     }
                     .accessibilityLabel("Next Speaker")
                 }
-                
             }
         }
         .padding([.bottom, .horizontal])
