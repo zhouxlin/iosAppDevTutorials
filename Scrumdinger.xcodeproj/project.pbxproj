@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AC1075E129A4CA0900ECFAB1 /* ErrorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC1075E029A4CA0900ECFAB1 /* ErrorView.swift */; };
 		AC4B0B4C299A27DD007F1BA4 /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC4B0B4B299A27DC007F1BA4 /* History.swift */; };
 		AC4B0B4E299B3458007F1BA4 /* ScrumStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC4B0B4D299B3458007F1BA4 /* ScrumStore.swift */; };
 		AC7556F22955A65E00FA35C5 /* ThemeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC7556F12955A65D00FA35C5 /* ThemeView.swift */; };
@@ -32,6 +33,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AC1075E029A4CA0900ECFAB1 /* ErrorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorView.swift; sourceTree = "<group>"; };
 		AC4B0B4B299A27DC007F1BA4 /* History.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = "<group>"; };
 		AC4B0B4D299B3458007F1BA4 /* ScrumStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumStore.swift; sourceTree = "<group>"; };
 		AC7556F12955A65D00FA35C5 /* ThemeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeView.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 				AC7B88712969A93A00CFD0A1 /* MeetingHeaderView.swift */,
 				ACC8FE2D294744F0000D0022 /* DetailEditView.swift */,
 				ACFD2501293E2D8500E2F7CF /* ScrumsView.swift */,
+				AC1075E029A4CA0900ECFAB1 /* ErrorView.swift */,
 				ACC78F9D29767940000389C4 /* MeetingFooterView.swift */,
 				AC7556F12955A65D00FA35C5 /* ThemeView.swift */,
 				AC7556F32955ADE400FA35C5 /* ThemePicker.swift */,
@@ -225,6 +228,7 @@
 				ACA7F33328F96CF7009E1D8C /* Theme.swift in Sources */,
 				ACFD2502293E2D8500E2F7CF /* ScrumsView.swift in Sources */,
 				ACA7F32528F95C8D009E1D8C /* MeetingView.swift in Sources */,
+				AC1075E129A4CA0900ECFAB1 /* ErrorView.swift in Sources */,
 				ACA7F32328F95C8D009E1D8C /* ScrumdingerApp.swift in Sources */,
 				AC7556F22955A65E00FA35C5 /* ThemeView.swift in Sources */,
 				ACCD361828FD88B1001C98A8 /* CardView.swift in Sources */,
